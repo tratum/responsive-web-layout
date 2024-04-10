@@ -31,7 +31,7 @@ responsive_web_layout: ^0.0.1
 
 ## Usage
 
-To use this plugin, add `responsive_web_layout` as
+To use this package, add `responsive_web_layout` as
 a [dependency in your pubspec.yaml file](https://docs.flutter.dev/packages-and-plugins/using-packages).
 
 ## Example
