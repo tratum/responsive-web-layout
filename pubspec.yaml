@@ -1,10 +1,10 @@
 name: responsive_web_layout
 description: A Package created for building dynamic and responsive UI for Web Platforms.
 version: 0.0.1
-repository: https://github.com/tratum/responsive-layout/tree/responsive-web-layout
-issue_tracker: https://github.com/tratum/responsive-layout/issues
+repository: https://github.com/tratum/responsive-web-layout
+issue_tracker: https://github.com/tratum/responsive-web-layout/issues
 homepage: https://github.com/tratum/responsive-layout
-documentation: https://github.com/tratum/responsive-layout/tree/responsive-web-layout
+documentation: https://github.com/tratum/responsive-web-layout
 topics:
   - widgets
   - UI
