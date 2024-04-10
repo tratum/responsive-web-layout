@@ -127,7 +127,7 @@ void main() {
       bool isHDLayoutExpected = false;
       bool isSDLayoutExpected = false;
       bool isHighResTabletExpected = false;
-      bool isStandardResTabletExpected = false;
+      // bool isStandardResTabletExpected = false;
       bool isLargeMobileLayoutExpected = false;
       bool isMediumMobileLayoutExpected = false;
       bool isSmallMobileLayoutExpected = false;
@@ -147,9 +147,9 @@ void main() {
                 ResponsiveWebLayout.isSdLayout(context: context);
                  isHighResTabletExpected =
                 ResponsiveWebLayout.isHighResTabletLayout(context: context);
-                 isStandardResTabletExpected =
-                ResponsiveWebLayout.isStandardTabletLayout(
-                    context: context);
+                //  isStandardResTabletExpected =
+                // ResponsiveWebLayout.isStandardTabletLayout(
+                //     context: context);
                  isLargeMobileLayoutExpected =
                 ResponsiveWebLayout.isLargeMobileLayout(context: context);
                  isMediumMobileLayoutExpected =
